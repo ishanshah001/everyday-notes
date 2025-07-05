@@ -1,0 +1,114 @@
+Financial Markets Overview
+
+Purpose
+
+	Match lenders with borrowers.
+	Facilitate capital flow, investment, and risk management.
+
+Evolution
+
+	Barter system → Centralized exchanges → Electronic Communication Networks (ECNs)
+	OTC (Over-the-Counter) trades: customized, bilateral agreements
+
+Types of Instruments
+
+	Equities (Stocks)
+
+		IPO = Primary Market
+		Trading post-IPO = Secondary Market
+
+	Debt
+
+		Loans and Bonds
+		Issuers: Governments, Corporates, Universities
+
+	Commodities: Metals, Energy, Agriculture (traded via futures, sometimes physical delivery)
+
+	Real Estate: Involves mortgages, asset-backed securities (ABS)
+
+	Derivatives: Options, Swaps, Structured Products
+
+Key Financial Terminologies
+
+	Volatility: Standard deviation of price change.
+	
+	Vega (Kappa): Sensitivity to volatility (not a Greek letter, but widely used).
+
+	Greeks:
+
+		Delta: Sensitivity to underlying asset
+		Gamma: Sensitivity of delta (2nd derivative)
+		Theta: Time decay
+		Vega: Sensitivity to volatility
+
+	VaR (Value at Risk): Quantifies potential loss in a portfolio.
+
+	Alpha: Excess return vs benchmark
+
+	Beta: Correlation with market index (e.g., S&P 500)
+
+Mathematical Applications
+
+	Pricing Models
+
+		Solve differential equations (e.g., Black-Scholes)
+		Monte Carlo simulations
+
+	Risk Management
+
+		Quantify exposure, balance sheet management
+
+	Trading Strategies
+
+		Directional (long/short)
+
+		Arbitrage
+
+		Value trading (fundamental/relative)
+
+		Systematic (trend, momentum, statistical arbitrage)
+
+		Example: Kalman Filter for FX trading
+
+Market Participants
+
+	Banks
+
+		Commercial: Deposits and loans
+		Investment: Capital markets, M&A, IPO
+
+	Dealers vs. Brokers
+
+		Dealers: Market makers, take principal risk
+		Brokers: Match trades, earn commission
+
+	Funds
+
+		Mutual Funds, Pension Funds, Endowments
+
+	Hedge Funds: Exploit inefficiencies, take risks
+
+	Private Equity: Invest in companies, improve profitability
+
+	Governments: Set monetary policy, regulate markets
+
+Human Behavior in Finance
+
+	Risk Aversion
+
+		People often avoid locking in losses
+		Prefer certainty even if mathematically suboptimal
+
+	Decision-making Biases
+
+		Short memory of past crises
+		Over-simplification of models
+
+	Judgment vs. Math: Finance combines both rigor and intuition
+
+
+Insights
+
+	People tend to extrapolate recent history, but market cycles are long.
+	You might build a perfect model, but markets will change. Keep adapting.
+
