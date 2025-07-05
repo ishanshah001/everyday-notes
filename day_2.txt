@@ -27,6 +27,49 @@ Types of Instruments
 	Real Estate: Involves mortgages, asset-backed securities (ABS)
 
 	Derivatives: Options, Swaps, Structured Products
+		https://youtu.be/LQrBzl0DMBA?si=olKuU3dHoysY7bH0
+		Derivatives are financial contracts whose value is derived from the price of an underlying asset. 
+		They are used to hedge risk, speculate on price movements, or gain access to otherwise hard-to-trade assets or markets.
+		Types of Derivatives:
+
+		1. Forward Contract
+			Agreement to buy/sell an asset at a future date at a fixed price.
+			Private, customizable, over-the-counter (OTC).
+
+			Example: You agree to buy a bike for $500 in 3 months.
+
+		2. Futures Contract
+			Standardized version of a forward contract, traded on exchanges.
+
+			Example: Buy 100 barrels of oil at $80 each for delivery in 6 months.
+
+		3. Options Contract
+		Gives the right, but not obligation to buy/sell an asset at a set price on a future date.
+		Two main types:
+		Call Option: Right to buy
+		Put Option: Right to sell
+		Comes with a premium (cost to acquire the option).
+
+		4. Swaps (Not covered in the video but part of the main 4)
+		Agreements to exchange cash flows (e.g., fixed rate for floating rate).
+
+		Key Concepts:
+
+			Strike Price: Agreed price in the derivative.
+			Maturity Date: When the contract settles.
+			Premium: Upfront cost for options.
+			Leverage: Small price changes in underlying cause large changes in derivative value.
+
+		Use Cases:
+
+		Cost Hedging: E.g., Airlines hedge fuel costs with futures.
+		Speculation: Bet on price movements without owning the asset.
+		Arbitrage: Profit from mispricing between markets.
+
+		Risks:
+		Can be extremely complex and opaque.
+		Used irresponsibly, can lead to massive losses.
+		Systemic risk when used by institutions with borrowed funds.
 
 Key Financial Terminologies
 
