@@ -1,6 +1,6 @@
 # 📊 Math in Finance
 
-A daily collection of lecture notes and learnings on mathematical foundations used in quantitative finance, stochastic processes, and financial modeling.
+A daily collection of lecture notes and learnings.
 
 ## 📆 Daily Learning Log
 
@@ -12,11 +12,12 @@ A daily collection of lecture notes and learnings on mathematical foundations us
 | 03  | Specialization and Trade | [Notes](economics/specialization_and_trade.md) |
 | 03  | Economic Systems and Macroeconomics | [Notes](economics/economic_systems.md) |
 | 03  | Supply and Demand | [Notes](economics/supply_demand.md) |
+| 04  | System Design | [Notes](system_design/system_design_notes.md) |
 > 📌 One topic every day. Organized for easy revision and future reference.
 
 ## 🧠 Goal
 
-To build a deep understanding of the mathematical tools used in quantitative finance, preparing for both academic and industry-level quantitative roles.
+To build a deep understanding of the tools used preparing for both academic and industry-level roles.
 
 ## 🛠️ Tools
 
