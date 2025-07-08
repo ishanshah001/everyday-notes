@@ -639,3 +639,6 @@ LoginService --> User: success/failure
 - Think about scale, extensibility, and testability.
 
 ---
+
+Also check out this excellent resource for interview problems:  
+- [Awsome low level design](https://github.com/ashishps1/awesome-low-level-design/tree/main/problems)
