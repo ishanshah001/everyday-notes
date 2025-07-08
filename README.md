@@ -2,10 +2,6 @@
 
 A daily collection of lecture notes and learnings on mathematical foundations used in quantitative finance, stochastic processes, and financial modeling.
 
-## 📚 Topics Covered
-
-- Stochastic Processes
-
 ## 📆 Daily Learning Log
 
 | Day | Topic | Notes |
@@ -14,6 +10,7 @@ A daily collection of lecture notes and learnings on mathematical foundations us
 | 02  | Financial Terms and Concepts | [Notes](day_2.txt) |
 | 03  | Intro to Economics | [Notes](economics/day_3.md) |
 | 03  | Specialization and Trade | [Notes](economics/specialization_and_trade.md) |
+| 03  | Economic Systems and Macroeconomics | [Notes](economics/economic_systems.md) |
 
 > 📌 One topic every day. Organized for easy revision and future reference.
 
