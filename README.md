@@ -11,7 +11,7 @@ A daily collection of lecture notes and learnings on mathematical foundations us
 | 03  | Intro to Economics | [Notes](economics/day_3.md) |
 | 03  | Specialization and Trade | [Notes](economics/specialization_and_trade.md) |
 | 03  | Economic Systems and Macroeconomics | [Notes](economics/economic_systems.md) |
-
+| 03  | Supply and Demand | [Notes](economics/supply_demand.md) |
 > 📌 One topic every day. Organized for easy revision and future reference.
 
 ## 🧠 Goal
