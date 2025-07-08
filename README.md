@@ -12,6 +12,7 @@ A daily collection of lecture notes and learnings on mathematical foundations us
 |-----|-------|-------|
 | 01  | Introduction to Stochastic Processes | [Notes](day_1.txt) |
 | 02  | Financial Terms and Concepts | [Notes](day_2.txt) |
+| 02  | Intro to Economics | [Notes](economics/day_3.md) |
 
 > 📌 One topic every day. Organized for easy revision and future reference.
 
