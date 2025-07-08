@@ -13,6 +13,7 @@ A daily collection of lecture notes and learnings.
 | 03  | Economic Systems and Macroeconomics | [Notes](economics/economic_systems.md) |
 | 03  | Supply and Demand | [Notes](economics/supply_demand.md) |
 | 04  | System Design | [Notes](system_design/system_design_notes.md) |
+| 04  | Low Level Design | [Notes](system_design/lld.md) |
 > 📌 One topic every day. Organized for easy revision and future reference.
 
 ## 🧠 Goal
