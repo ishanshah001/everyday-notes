@@ -1,4 +1,4 @@
-# 📊 Math in Finance
+# 📊 Everyday Notes
 
 A daily collection of lecture notes and learnings.
 
@@ -18,7 +18,7 @@ A daily collection of lecture notes and learnings.
 
 ## 🧠 Goal
 
-To build a deep understanding of the tools used preparing for both academic and industry-level roles.
+To build a deep understanding of the tools used, preparing for both academic and industry-level roles.
 
 ## 🛠️ Tools
 
