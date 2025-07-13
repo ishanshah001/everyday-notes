@@ -14,6 +14,12 @@ A daily collection of lecture notes and learnings.
 | 03  | Supply and Demand | [Notes](economics/supply_demand.md) |
 | 04  | System Design | [Notes](system_design/system_design_notes.md) |
 | 04  | Low Level Design | [Notes](system_design/lld.md) |
+| 05  | Macroeconomics | [Notes](economics/macroecon.md) |
+| 05  | Productivity and growth | [Notes](economics/productivity_and_growth.md) |
+| 05  | Inflation and Bubbles | [Notes](economics/inflation.md) |
+| 05  | Fiscal policy | [Notes](economics/fiscal_policy.md) |
+| 05  | Deficits & Debts | [Notes](economics/debt_deficit.md) |
+
 > 📌 One topic every day. Organized for easy revision and future reference.
 
 ## 🧠 Goal
