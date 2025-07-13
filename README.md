@@ -20,6 +20,7 @@ A daily collection of lecture notes and learnings.
 | 05  | Fiscal policy | [Notes](economics/fiscal_policy.md) |
 | 05  | Deficits & Debts | [Notes](economics/debt_deficit.md) |
 | 06  | Monetary Policy | [Notes](economics/monetary_policy.md) |
+| 06  | Money | [Notes](economics/money.md) |
 
 
 > 📌 One topic every day. Organized for easy revision and future reference.
