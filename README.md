@@ -24,6 +24,7 @@ A daily collection of lecture notes and learnings.
 | 06  | 2008 Financial Crisis | [Notes](economics/2008_financial_crisis.md) |
 | 06  | Crashes and Crisis | [Notes](economics/crashes_and_crisis.md) |
 | 06  | Schools of Economic Thought | [Notes](economics/schools_of_economics.md) |
+| 06  | Trade Deficits, Exchange Rates, and International Trade | [Notes](economics/trade.md) |
 
 
 > 📌 One topic every day. Organized for easy revision and future reference.
