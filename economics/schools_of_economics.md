@@ -1,4 +1,4 @@
-# Crash Course Economics: Schools of Economic Thought
+# Schools of Economic Thought
 
 ## Introduction
 

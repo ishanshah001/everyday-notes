@@ -1,4 +1,4 @@
-# Crash Course Economics: Trade Deficits, Exchange Rates, and International Trade
+# Trade Deficits, Exchange Rates, and International Trade
 
 ## What is International Trade?
 
