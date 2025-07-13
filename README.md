@@ -22,6 +22,7 @@ A daily collection of lecture notes and learnings.
 | 06  | Monetary Policy | [Notes](economics/monetary_policy.md) |
 | 06  | Money | [Notes](economics/money.md) |
 | 06  | 2008 Financial Crisis | [Notes](economics/2008_financial_crisis.md) |
+| 06  | Crashes and Crisis | [Notes](economics/crashes_and_crisis.md) |
 
 
 > 📌 One topic every day. Organized for easy revision and future reference.
