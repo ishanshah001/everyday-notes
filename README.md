@@ -25,7 +25,15 @@ A daily collection of lecture notes and learnings.
 | 06  | Crashes and Crisis | [Notes](economics/crashes_and_crisis.md) |
 | 06  | Schools of Economic Thought | [Notes](economics/schools_of_economics.md) |
 | 06  | Trade Deficits, Exchange Rates, and International Trade | [Notes](economics/trade.md) |
-
+| 07  | Globalization | [Notes](economics/globalization.md) |
+| 07  | Income & Wealth Inequality | [Notes](economics/wealth_inequality.md) |
+| 07  | Marginal Analysis & Elasticity | [Notes](economics/marginal_analysis.md) |
+| 07  | Markets, Price Signals, and Efficiency | [Notes](economics/markets.md) |
+| 07  | Price Controls, Deadweight Loss, and Subsidies | [Notes](economics/price_controls.md) |
+| 07  | Market Failures and Government Intervention | [Notes](economics/market_failures.md) |
+| 07  | Environmental Economics | [Notes](economics/environmental_econ.md) |
+| 07  | Economics of Education | [Notes](economics/education_econ.md) |
+| 07  | Revenue, Profits, and Price | [Notes](economics/revenue.md) |
 
 > 📌 One topic every day. Organized for easy revision and future reference.
 
