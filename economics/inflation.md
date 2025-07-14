@@ -1,6 +1,6 @@
-# 📈 Inflation, Bubbles, and Tulips
+# Inflation, Bubbles, and Tulips
 
-## 🔑 What is Inflation?
+## What is Inflation?
 
 - Inflation = A sustained **increase in the overall price level** in an economy.
 - **Purchasing Power** = The amount of goods/services your money can buy.
@@ -10,13 +10,13 @@
 
 ---
 
-## 💰 Measuring Inflation
+## Measuring Inflation
 
 ### 🛒 Consumer Basket
 - Economists create a **"market basket"**: a sample of what typical consumers buy (e.g. rent, gas, bread, movie tickets).
 - They measure the **total cost** of that basket year after year.
 
-### 📊 CPI – Consumer Price Index
+### CPI – Consumer Price Index
 - Formula:  
   \[
   \text{CPI} = \left( \frac{\text{Basket Cost in Year X}}{\text{Basket Cost in Base Year}} \right) \times 100
@@ -25,7 +25,7 @@
 
 ---
 
-## 💵 Nominal vs. Real Prices
+## Nominal vs. Real Prices
 
 - **Nominal Price** = Not adjusted for inflation.
 - **Real Price** = Adjusted for inflation (more accurate for comparisons).
@@ -34,7 +34,7 @@
 
 ---
 
-## ❌ Limitations of CPI
+## Limitations of CPI
 
 - Doesn't capture:
   - **New products**
@@ -44,7 +44,7 @@
 
 ---
 
-## 🌍 Global Inflation Rates
+## Global Inflation Rates
 
 | Country/Period | Trend |
 |----------------|-------|
@@ -54,13 +54,13 @@
 
 ---
 
-## 🔍 What Causes Inflation?
+## What Causes Inflation?
 
-### 💸 Demand-Pull Inflation
+### Demand-Pull Inflation
 - “**Too much money chasing too few goods**”
 - Example: Everyone wants pizza, they bid up prices.
 
-### 💥 Cost-Push Inflation
+### Cost-Push Inflation
 - Input costs rise (e.g. oil), making production more expensive.
 - Fewer goods produced → prices increase.
 
@@ -77,16 +77,16 @@
 
 ---
 
-## 📈 Rising Prices ≠ Always Inflation
+## Rising Prices ≠ Always Inflation
 
 - Some price increases are due to **supply & demand**, not general inflation.
 
-### 🍫 Chocolate Prices
+### Chocolate Prices
 - Demand: ↑ in China + global dark chocolate trend.
 - Supply: ↓ due to drought/disease.
 - Result: Prices ↑ (but not inflation—just a **market shift**).
 
-### 🏠 Housing Prices (2000–2006)
+### Housing Prices (2000–2006)
 - Demand increased due to:
   - Low interest rates
   - Loose lending (e.g. NINJA loans: **No Income, No Job, No Assets**)
@@ -95,18 +95,18 @@
 
 ---
 
-## 🫧 Understanding Bubbles
+## Understanding Bubbles
 
-### 🏡 Housing Bubble
+### Housing Bubble
 - Prices detached from fundamentals.
 - Speculators bought homes to sell for profit.
 - Eventually, new buyers ran out → **Bubble burst**.
 
-### 📉 Internet Bubble (Late 1990s–2000)
+### Internet Bubble (Late 1990s–2000)
 - Massive investment in unprofitable tech companies (e.g. pets.com).
 - Stock prices soared → crashed in 2000.
 
-### 🌷 Tulip Mania (1630s – Netherlands)
+### Tulip Mania (1630s – Netherlands)
 - Tulips = Luxury fad among wealthy.
 - Prices skyrocketed (some bulbs = 12 acres of land).
 - Bubble burst → tulips now worth <$1.
@@ -115,7 +115,7 @@
 
 ---
 
-## 🧠 Why This Matters to You
+## Why This Matters to You
 
 - Inflation affects **real wages**.
 - Understanding economics helps in:
@@ -125,7 +125,7 @@
 
 ---
 
-## 💡 Summary of Key Concepts
+## Summary of Key Concepts
 
 | Concept | Explanation |
 |--------|-------------|
@@ -140,11 +140,11 @@
 
 ---
 
-## 📚 Examples to Remember
+## Examples to Remember
 
-- 🎬 *Gone With the Wind* vs *Avatar* box office → Real vs Nominal
-- 🏠 Housing market pre-2008 → Classic Bubble
-- 🍫 Chocolate prices → Supply/Demand shift, not inflation
-- 🌷 Tulip Mania → Earliest known economic bubble
+- *Gone With the Wind* vs *Avatar* box office → Real vs Nominal
+- Housing market pre-2008 → Classic Bubble
+- Chocolate prices → Supply/Demand shift, not inflation
+- Tulip Mania → Earliest known economic bubble
 
 ---

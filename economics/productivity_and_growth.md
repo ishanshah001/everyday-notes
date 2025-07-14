@@ -1,6 +1,6 @@
-# Crash Course Economics: Why Are Some Countries Rich and Others Poor?
+# Why Are Some Countries Rich and Others Poor?
 
-## 💰 Defining "Rich"
+## Defining "Rich"
 
 - GDP ≠ Wealth per person.
   - Example: India has higher total GDP than Singapore but far more people.
@@ -13,14 +13,14 @@
 
 ---
 
-## ❓ Why Are Some Countries Poor?
+## Why Are Some Countries Poor?
 
-### 🚫 Common Misconceptions
-- ❌ Lack of natural resources? Not always.
+### Common Misconceptions
+- Lack of natural resources? Not always.
   - Example: Singapore (rich, few resources), Zimbabwe (poor, many resources).
-- ❌ Racial/social Darwinist myths → Rejected.
+- Racial/social Darwinist myths → Rejected.
 
-### ✅ Key Factor: **Productivity**
+### Key Factor: **Productivity**
 
 > **Productivity** = Output per worker per hour.
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧠 Thought Bubble: Donuts & Wages Example
+## Thought Bubble: Donuts & Wages Example
 
 - Worker making 12 donuts/hour → Can’t earn more than $12/hour.
 - But if the worker produces 48 donuts/hour → Can earn more.
@@ -39,7 +39,7 @@
 
 ---
 
-## ⚠️ Limitations of GDP per Capita
+## Limitations of GDP per Capita
 
 - **Productivity ≠ Equal incomes.**
   - Median wages may stagnate even as GDP per capita rises.
@@ -47,7 +47,7 @@
 
 ---
 
-## 🏭 Factors of Production
+## Factors of Production
 
 To be productive, countries need:
 1. **Land** – Natural resources
@@ -59,21 +59,21 @@ To be productive, countries need:
 
 ---
 
-## 🧠 Technology & Organizational Effectiveness
+## Technology & Organizational Effectiveness
 
 - **Technology** = How effectively resources are used.
   - Not just computers, but **better ideas** and systems.
 - More capital increases productivity **but has costs**.
 - Technology improves productivity **without needing more inputs**.
 
-### 🖥️ Example: Computers
+### Example: Computers
 - Pre-1995: Computers were isolated tools.
 - Post-1995: Internet-enabled productivity boom via **connectivity**.
   - Global supply chains, communication, and real-time coordination improved.
 
 ---
 
-## 🌍 Global Productivity Trends
+## Global Productivity Trends
 
 - Past 200 years: Gradual productivity gains → Major increases in standards of living.
 - Recently, developing nations (e.g. China, South Korea, Ghana) boosted:
@@ -83,11 +83,11 @@ To be productive, countries need:
 
 ---
 
-## 🏁 Key Takeaway
+## Key Takeaway
 
 > **Why are some countries rich and others poor?**
 >
-> 🧩 **One-word answer: Productivity.**
+> **One-word answer: Productivity.**
 
 - Productivity drives:
   - Wages
@@ -97,7 +97,7 @@ To be productive, countries need:
 
 ---
 
-## 📚 Key Concepts
+## Key Concepts
 - GDP vs GDP per Capita
 - HDI (Human Development Index)
 - Income Inequality (future episode)
