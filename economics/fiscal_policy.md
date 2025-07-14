@@ -95,13 +95,14 @@
 
 ---
 
-## 9. Deficit Spending and Debt
+## 9. Deficit Spending and Debt (Keynesian)
 
 - Governments can't raise taxes to fund stimulus (defeats purpose).
 - So they **deficit spend**: spend more than they collect in taxes.
 - Leads to borrowing → **national debt**.
 
 ### Criticism: Crowding Out
+- Increased government spending or borrowing reduces private sector investment and consumption.
 - Government borrowing raises interest rates → private sector investment drops.
 - **Keynesian Response**:
   - Crowding out matters only if economy is at full capacity.
@@ -123,8 +124,9 @@
 - **Multiplier**: How much total spending results from $1 of government spending.
 
 ### How it works:
-- Gov spends $100 → worker spends $50 → musician spends $25 → etc.
+- Gov spends $100 → worker spends $50 → musician spends $25 → etc. (~1.75 multiplier)
 - Ripple effect increases total economic activity.
+- One person's spending becomes another’s income
 
 | Condition                    | Approx. Multiplier |
 |-----------------------------|--------------------|
