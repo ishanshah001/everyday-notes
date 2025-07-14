@@ -12,15 +12,13 @@
 
 ## Measuring Inflation
 
-### 🛒 Consumer Basket
+### Consumer Basket
 - Economists create a **"market basket"**: a sample of what typical consumers buy (e.g. rent, gas, bread, movie tickets).
 - They measure the **total cost** of that basket year after year.
 
 ### CPI – Consumer Price Index
 - Formula:  
-  \[
-  \text{CPI} = \left( \frac{\text{Basket Cost in Year X}}{\text{Basket Cost in Base Year}} \right) \times 100
-  \]
+  CPI = (Basket Cost in Year X ÷ Basket Cost in Base Year) × 100
 - CPI tracks how prices change over time.
 
 ---
