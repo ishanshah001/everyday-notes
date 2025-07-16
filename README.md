@@ -34,6 +34,11 @@ A daily collection of lecture notes and learnings.
 | 07  | Environmental Economics | Economics | [Notes](economics/environmental_econ.md) |
 | 07  | Economics of Education | Economics | [Notes](economics/education_econ.md) |
 | 07  | Revenue, Profits, and Price | Economics | [Notes](economics/revenue.md) |
+| 08  | Monopolies | Economics | [Notes](economics/monopoly.md) |
+| 08  | Game Theory and Oligopoly | Economics | [Notes](economics/oligopoly_gametheory.md) |
+| 08  | Behavioral Economics | Economics | [Notes](economics/behavioral_econ.md) |
+| 08  | Labor Markets and Minimum Wage | Economics | [Notes](economics/labor_market.md) |
+| 08  | Economics of Healthcare | Economics | [Notes](economics/healthcare_econ.md) |
 
 > 📌 One topic every day. Organized for easy revision and future reference.
 
