@@ -39,6 +39,7 @@ A daily collection of lecture notes and learnings.
 | 08  | Behavioral Economics | Economics | [Notes](economics/behavioral_econ.md) |
 | 08  | Labor Markets and Minimum Wage | Economics | [Notes](economics/labor_market.md) |
 | 08  | Economics of Healthcare | Economics | [Notes](economics/healthcare_econ.md) |
+| 09  | Introduction to Distributed Systems | Distributed Systems | [Notes](distributed_systems/intro.md) |
 
 > 📌 One topic every day. Organized for easy revision and future reference.
 
